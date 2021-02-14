@@ -1,2 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~@ng-select/ng-select/themes/default.theme.css";
+
+
+.body-background {
+    background-image:url('assets/search.jpg');
+    background-position:center top;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
